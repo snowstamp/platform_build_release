@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.providers.contacts.flags"
+  name: "cp2_account_move_sync_stub_flag"
+  state: DISABLED
+  permission: READ_ONLY
+}

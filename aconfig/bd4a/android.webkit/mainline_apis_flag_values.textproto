@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.webkit"
+  name: "mainline_apis"
+  state: DISABLED
+  permission: READ_ONLY
+}

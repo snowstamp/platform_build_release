@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "enable_input_policy_profile"
+  state: DISABLED
+  permission: READ_ONLY
+}

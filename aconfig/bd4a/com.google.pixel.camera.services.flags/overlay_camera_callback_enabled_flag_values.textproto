@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.pixel.camera.services.flags"
+  name: "overlay_camera_callback_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

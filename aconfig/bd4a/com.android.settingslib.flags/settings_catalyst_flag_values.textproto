@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settingslib.flags"
+  name: "settings_catalyst"
+  state: DISABLED
+  permission: READ_ONLY
+}

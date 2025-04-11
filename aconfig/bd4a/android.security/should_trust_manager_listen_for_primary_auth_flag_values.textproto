@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.security"
+  name: "should_trust_manager_listen_for_primary_auth"
+  state: DISABLED
+  permission: READ_ONLY
+}

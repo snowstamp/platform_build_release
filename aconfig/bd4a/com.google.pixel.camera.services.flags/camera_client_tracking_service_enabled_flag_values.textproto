@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.pixel.camera.services.flags"
+  name: "camera_client_tracking_service_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

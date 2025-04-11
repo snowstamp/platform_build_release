@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "collect_palm_rejection_quality_metrics"
+  state: DISABLED
+  permission: READ_ONLY
+}

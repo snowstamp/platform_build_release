@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_minimize_button"
+  state: DISABLED
+  permission: READ_ONLY
+}

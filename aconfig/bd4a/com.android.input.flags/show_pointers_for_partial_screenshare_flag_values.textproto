@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "show_pointers_for_partial_screenshare"
+  state: DISABLED
+  permission: READ_ONLY
+}

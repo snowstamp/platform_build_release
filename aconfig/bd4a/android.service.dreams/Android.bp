@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bd4a-android.service.dreams-all",
+  package: "android.service.dreams",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

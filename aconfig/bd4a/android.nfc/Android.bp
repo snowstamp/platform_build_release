@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bd4a-android.nfc-all",
+  package: "android.nfc",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

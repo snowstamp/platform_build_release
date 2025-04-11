@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.net.wifi.flags"
+  name: "hotspot_network_connecting_state_for_details_page"
+  state: DISABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bd4a-android.media.soundtrigger-all",
+  package: "android.media.soundtrigger",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

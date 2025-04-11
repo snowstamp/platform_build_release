@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "modes_ui_test"
+  state: DISABLED
+  permission: READ_ONLY
+}

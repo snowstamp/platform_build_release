@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os.vibrator"
+  name: "vibration_attribute_ime_usage_api"
+  state: DISABLED
+  permission: READ_ONLY
+}

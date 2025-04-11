@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "keyboard_insets_fling_capture_fix"
+  state: DISABLED
+  permission: READ_ONLY
+}

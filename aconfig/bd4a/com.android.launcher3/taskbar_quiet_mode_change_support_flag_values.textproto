@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "taskbar_quiet_mode_change_support"
+  state: DISABLED
+  permission: READ_ONLY
+}

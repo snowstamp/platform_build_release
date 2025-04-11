@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.supervision.flags"
+  name: "supervision_api"
+  state: DISABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "compose_haptic_sliders"
+  state: DISABLED
+  permission: READ_ONLY
+}

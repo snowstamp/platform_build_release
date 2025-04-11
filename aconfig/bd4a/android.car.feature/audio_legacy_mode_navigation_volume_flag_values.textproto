@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "audio_legacy_mode_navigation_volume"
+  state: DISABLED
+  permission: READ_ONLY
+}

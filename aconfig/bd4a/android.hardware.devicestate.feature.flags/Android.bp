@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bd4a-android.hardware.devicestate.feature.flags-all",
+  package: "android.hardware.devicestate.feature.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "coexistence_migration_for_supervision_enabled"
+  state: DISABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.power.optimization"
+  name: "disable_composite_battery_usage_stats_atoms"
+  state: DISABLED
+  permission: READ_ONLY
+}

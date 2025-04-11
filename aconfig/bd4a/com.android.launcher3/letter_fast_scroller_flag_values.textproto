@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "letter_fast_scroller"
+  state: DISABLED
+  permission: READ_ONLY
+}

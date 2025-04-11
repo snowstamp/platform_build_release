@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.libgui.flags"
+  name: "wb_stream_splitter"
+  state: DISABLED
+  permission: READ_ONLY
+}

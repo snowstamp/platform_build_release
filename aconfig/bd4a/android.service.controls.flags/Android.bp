@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bd4a-android.service.controls.flags-all",
+  package: "android.service.controls.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

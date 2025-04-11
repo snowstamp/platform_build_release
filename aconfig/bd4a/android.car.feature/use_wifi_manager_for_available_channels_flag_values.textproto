@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "use_wifi_manager_for_available_channels"
+  state: DISABLED
+  permission: READ_ONLY
+}

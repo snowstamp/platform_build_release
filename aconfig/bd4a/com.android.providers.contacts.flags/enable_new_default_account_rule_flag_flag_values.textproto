@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.providers.contacts.flags"
+  name: "enable_new_default_account_rule_flag"
+  state: DISABLED
+  permission: READ_ONLY
+}

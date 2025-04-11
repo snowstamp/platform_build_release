@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wallpaper"
+  name: "large_screen_wallpaper_collections"
+  state: DISABLED
+  permission: READ_ONLY
+}

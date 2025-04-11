@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "reset_input_dispatcher_before_first_touch_exploration"
+  state: DISABLED
+  permission: READ_ONLY
+}

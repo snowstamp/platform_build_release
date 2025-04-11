@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.chre.flags"
+  name: "unified_metrics_reporting_implementation"
+  state: DISABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "persistent_keyboard_sync_controller"
+  state: DISABLED
+  permission: READ_ONLY
+}

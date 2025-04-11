@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "fix_avatar_cross_user_leak"
+  state: DISABLED
+  permission: READ_ONLY
+}

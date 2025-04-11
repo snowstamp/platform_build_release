@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bd4a-com.google.android.apps.pixel.dcservice-all",
+  package: "com.google.android.apps.pixel.dcservice",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

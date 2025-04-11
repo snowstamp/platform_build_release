@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bd4a-android.media.tv.flags-all",
+  package: "android.media.tv.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

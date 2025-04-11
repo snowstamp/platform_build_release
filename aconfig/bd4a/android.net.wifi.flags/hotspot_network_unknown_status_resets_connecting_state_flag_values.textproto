@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.net.wifi.flags"
+  name: "hotspot_network_unknown_status_resets_connecting_state"
+  state: DISABLED
+  permission: READ_ONLY
+}

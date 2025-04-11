@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wm.shell"
+  name: "enable_flexible_split"
+  state: DISABLED
+  permission: READ_ONLY
+}

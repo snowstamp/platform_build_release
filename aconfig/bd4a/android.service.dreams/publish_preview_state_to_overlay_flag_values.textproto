@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.service.dreams"
+  name: "publish_preview_state_to_overlay"
+  state: DISABLED
+  permission: READ_ONLY
+}

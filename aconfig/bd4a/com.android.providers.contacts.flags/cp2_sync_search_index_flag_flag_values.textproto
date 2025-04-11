@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.providers.contacts.flags"
+  name: "cp2_sync_search_index_flag"
+  state: DISABLED
+  permission: READ_ONLY
+}

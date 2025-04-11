@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settingslib.flags"
+  name: "member_device_lea_active_state_sync_fix"
+  state: DISABLED
+  permission: READ_ONLY
+}

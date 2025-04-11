@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "apply_lifecycle_on_pip_change"
+  state: DISABLED
+  permission: READ_ONLY
+}

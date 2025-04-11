@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.chre.flags"
+  name: "remove_old_context_hub_apis"
+  state: DISABLED
+  permission: READ_ONLY
+}
